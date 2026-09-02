@@ -4,6 +4,8 @@
 
 ### Software & Game Developer
 
+`Game Systems` · `Backend` · `Web` · `Developer Tools`
+
 I build game systems, backend tools, web projects, and small utilities while continuing to improve how I structure and maintain my work.
 
 </div>
@@ -41,7 +43,7 @@ Git · GitHub · VS Code · Node.js · MySQL · Linux · Roblox Studio · MTA:SA
 Right now I'm spending most of my time on:
 
 - Game systems and server-side logic
-- Lua development
+- Lua and Luau development
 - Backend development
 - APIs and databases
 - JavaScript and TypeScript
@@ -54,21 +56,55 @@ I prefer learning technologies when I have a real reason to use them rather than
 
 ## What I Build
 
-### 🎮 Game Development
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<img src="./assets/icons/game-development.png" width="90" alt="Game Development">
+
+### Game Development
 
 Gameplay systems, player data, server-side logic, interfaces, and reusable Lua modules.
 
-### ⚙️ Backend
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<img src="./assets/icons/backend.png" width="90" alt="Backend">
+
+### Backend
 
 APIs, database work, validation, server architecture, and small services.
 
-### 🌐 Web
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<img src="./assets/icons/web.png" width="90" alt="Web">
+
+### Web
 
 Websites, dashboards, interfaces, and practical web tools.
 
-### ☁️ Infrastructure
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<img src="./assets/icons/infrastructure.png" width="90" alt="Infrastructure">
+
+### Infrastructure
 
 Linux servers, hosting, deployment, and cloud environments.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -95,19 +131,20 @@ That's part of the process.
 
 ## Selected Projects
 
-### 🎮 Roblox Player Data Service
+### Roblox Player Data Service
+
+![Luau](https://img.shields.io/badge/Luau-8B5CF6?style=flat-square)
+![Roblox](https://img.shields.io/badge/Roblox-111111?style=flat-square&logo=roblox&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-8B5CF6?style=flat-square)
+![v0.1.0](https://img.shields.io/badge/v0.1.0-Pre--release-8B5CF6?style=flat-square)
 
 A lightweight Luau service for managing Roblox player data through a small server-side API.
 
 It includes DataStore persistence, validation, autosaving, safe data access, and documented examples while keeping trusted data changes on the server.
 
-**Tech:** `Luau` · `Roblox` · `DataStore` · `Backend`
-
 [View Repository](https://github.com/0xfuji/roblox-player-data-service)
 
 > Currently available as an early `v0.1.0` pre-release.
-
-I'm gradually making more of my projects public as they're ready to share.
 
 ---
 
