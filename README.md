@@ -70,8 +70,6 @@ Websites, dashboards, interfaces, and practical web tools.
 
 Linux servers, hosting, deployment, and cloud environments.
 
-I'm gradually making more of my projects public as they're ready to share.
-
 ---
 
 ## How I Work
