@@ -95,15 +95,21 @@ That's part of the process.
 
 ---
 
-## Projects
+## Selected Projects
 
-I'm currently organizing and preparing more of my projects for GitHub.
+### 🎮 Roblox Player Data Service
 
-As they become ready, I'll use this section to highlight the projects I'm most interested in maintaining and sharing.
+A lightweight Luau service for managing Roblox player data through a small server-side API.
 
-For now, my repositories will mainly cover:
+It includes DataStore persistence, validation, autosaving, safe data access, and documented examples while keeping trusted data changes on the server.
 
-`Game Development` · `Lua` · `Backend` · `Web` · `Developer Tools` · `Infrastructure`
+**Tech:** `Luau` · `Roblox` · `DataStore` · `Backend`
+
+[View Repository](https://github.com/0xfuji/roblox-player-data-service)
+
+> Currently available as an early `v0.1.0` pre-release.
+
+I'm gradually making more of my projects public as they're ready to share.
 
 ---
 
